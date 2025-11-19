@@ -9,7 +9,7 @@
 <img width="500" height="316" alt="image" src="https://github.com/user-attachments/assets/9542eac3-4839-44b6-9af7-74bc0dff2820" />
 
 ### *Department*
-<img width="975" height="213" alt="image" src="https://github.com/user-attachments/assets/e22947ec-77cc-4b4f-a9fc-019577517796" />
+<img width="975" height="193" alt="image" src="https://github.com/user-attachments/assets/3d4aa134-a477-46fb-8a8e-38295f05ebe0" />
 
 Provides a list of the subgroups within the department and their respective contacts and information.
 
